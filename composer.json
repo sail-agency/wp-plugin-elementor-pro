@@ -1,0 +1,15 @@
+{
+    "name": "sail-agency/wp-plugin-elementor-pro",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/sail-agency/wp-plugin-elementor-pro",
+    "authors": [
+      {
+        "name": "Elementor.com",
+        "homepage": "https://elementor.com"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=5.4"
+    }
+  }
