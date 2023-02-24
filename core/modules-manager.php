@@ -34,6 +34,7 @@ final class Modules_Manager {
 
 			// Modules with Widgets.
 			'theme-builder',
+			'loop-builder',
 			'posts',
 			'gallery',
 			'forms',
@@ -63,6 +64,7 @@ final class Modules_Manager {
 			'video-playlist',
 			'payments',
 			'progress-tracker',
+			'mega-menu',
 		];
 
 		foreach ( $modules as $module_name ) {
